@@ -1,0 +1,7 @@
+--- a/a.txt
++++ b/a.txt
+-blablabla
++blablabl
++
++i added an new message 
++
