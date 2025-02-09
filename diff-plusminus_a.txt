@@ -1,3 +1,0 @@
---- a/a.txt
-+++ b/a.txt
-+added without push
