@@ -1,8 +1,4 @@
-diff --git a/a.txt b/a.txt
-index 01f33fb..6c2fbce 100644
---- a/a.txt
-+++ b/a.txt
-@@ -3,3 +3,4 @@ blablabl
+di
  i added an new message 
  
  now i added more
